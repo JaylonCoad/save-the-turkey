@@ -2,7 +2,7 @@
 
 It's the night before Thanksgiving, and one brave turkey is trying to escape the farm before it ends up on someone's dinner table. **Your job: code a Python game where the room makes the decisions and luck decides what happens.**
 
-If you don't have Python, click this link to an online compiler: https://www.programiz.com/python-programming/online-compiler/
+**Don't have Python installed?** Open `save_the_turkey_starter.py` above, click the **Copy raw file** button (top right of the code), then paste it into this [online Python compiler](https://www.programiz.com/python-programming/online-compiler/).
 
 ## How the game works
 
